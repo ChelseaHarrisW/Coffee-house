@@ -1,20 +1,26 @@
 .list {
-    display: flex;
-    padding: wrap;
-    justify-content: space-evenly;
-    flex-wrap: wrap;
-    padding: 10px 5 wrap
+  display: flex;
+  padding: wrap;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  padding: 10px 5 wrap;
 }
-.pageHeader { text-align: center;
-
+.pageHeader {
+  text-align: center;
 }
 
 .shop {
- 
-    border: 1px solid rgb(20, 40, 220);
-    padding: 25 em;
-    margin: 0.75em;
-    justify-content: space-evenly;
-    padding: 10px 5 wrap
+  border: 1px solid rgb(20, 40, 220);
+  padding: 25 em;
+  margin: 0.75em;
+  justify-content: space-evenly;
+  padding: 10px 5 wrap;
 }
 
+.h1 {
+  text-align: center;
+}
+.header {
+  height: 400px;
+  width: 250 px;
+}
